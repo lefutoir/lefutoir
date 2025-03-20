@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub! 🌱
 
-I'm currently at [UTY3](http://UTY3.ai) as a Web / AI Developer. I love coding and am always eager to learn new things.
+I'm a Web Developer / Full Stack Creative. I love coding and am always eager to try help on new projects hmu.
 
 ### How to Reach Me
 - 📫 [lefutoir.ch](http://lefutoir.ch)
