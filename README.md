@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://media1.tenor.com/m/klJm2D-LfwkAAAAd/gon-killua.gif"
+    width="100%"
+    alt="Gon and Killua running"
+  />
+</p>
+
 <h1 align="center">Hi, I'm Ali</h1>
 
 <p align="center">
@@ -11,11 +19,15 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://media1.tenor.com/m/klJm2D-LfwkAAAAd/gon-killua.gif"
-    width="700"
-    alt="Gon and Killua running"
-  />
+  <a href="https://lefutoir.ch">
+    <img src="https://img.shields.io/badge/Website-1213FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.behance.net/ali-lefutoir">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://codepen.io/lefutoir">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
 </p>
 
 ---
@@ -34,6 +46,3 @@
 
 ### Languages
 French · English · Turkish · Kurdish
-
-### Find me
-[Website](https://lefutoir.ch) · [Behance](https://www.behance.net/ali-lefutoir) · [CodePen](https://codepen.io/lefutoir)
