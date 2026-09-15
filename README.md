@@ -1,12 +1,39 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Ali</h1>
 
-# Welcome to my GitHub! 🌱
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=1213FF&center=true&vCenter=true&width=520&lines=Interactive+media+designer+%26+developer;Based+in+Fribourg%2C+Switzerland;Design+%2B+code" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm a Web Developer / Full Stack Creative. I love coding and am always eager to try help on new projects hmu.
+<p align="center">
+  I like building things where design and code meet.
+</p>
 
-### How to Reach Me
-- 📫 [lefutoir.ch](http://lefutoir.ch)
+<p align="center">
+  <img
+    src="https://media1.tenor.com/m/klJm2D-LfwkAAAAd/gon-killua.gif"
+    width="700"
+    alt="Gon and Killua running"
+  />
+</p>
 
-### Check Out My Work
-- 🎨 [Behance](https://www.behance.net/ali-lefutoir) for design-related projects
-- 💻 [CodePen](https://codepen.io/lefutoir) for snippets of code that I enjoy making
+---
+
+### Currently
+- Bachelor student in *Informatique et systèmes de communication* at HEIA-FR
+
+### Toolbox
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,py,java,idea,git" alt="Skills" />
+</p>
+
+### Background
+- CFC in Interaction Media Design
+- Two awarded projects at Media.Monks
+
+### Languages
+French · English · Turkish · Kurdish
+
+### Find me
+[Website](https://lefutoir.ch) · [Behance](https://www.behance.net/ali-lefutoir) · [CodePen](https://codepen.io/lefutoir)
